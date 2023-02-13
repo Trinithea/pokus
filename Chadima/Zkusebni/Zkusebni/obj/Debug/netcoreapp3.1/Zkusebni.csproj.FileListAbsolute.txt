@@ -1,0 +1,14 @@
+C:\Users\mysak\Documents\03_TEACHING\Programovani\03_ROCNIKOVE_PRACE\Chadima\Zkusebni\Zkusebni\bin\Debug\netcoreapp3.1\Zkusebni.exe
+C:\Users\mysak\Documents\03_TEACHING\Programovani\03_ROCNIKOVE_PRACE\Chadima\Zkusebni\Zkusebni\bin\Debug\netcoreapp3.1\Zkusebni.deps.json
+C:\Users\mysak\Documents\03_TEACHING\Programovani\03_ROCNIKOVE_PRACE\Chadima\Zkusebni\Zkusebni\bin\Debug\netcoreapp3.1\Zkusebni.runtimeconfig.json
+C:\Users\mysak\Documents\03_TEACHING\Programovani\03_ROCNIKOVE_PRACE\Chadima\Zkusebni\Zkusebni\bin\Debug\netcoreapp3.1\Zkusebni.runtimeconfig.dev.json
+C:\Users\mysak\Documents\03_TEACHING\Programovani\03_ROCNIKOVE_PRACE\Chadima\Zkusebni\Zkusebni\bin\Debug\netcoreapp3.1\Zkusebni.dll
+C:\Users\mysak\Documents\03_TEACHING\Programovani\03_ROCNIKOVE_PRACE\Chadima\Zkusebni\Zkusebni\bin\Debug\netcoreapp3.1\Zkusebni.pdb
+C:\Users\mysak\Documents\03_TEACHING\Programovani\03_ROCNIKOVE_PRACE\Chadima\Zkusebni\Zkusebni\obj\Debug\netcoreapp3.1\Zkusebni.csproj.AssemblyReference.cache
+C:\Users\mysak\Documents\03_TEACHING\Programovani\03_ROCNIKOVE_PRACE\Chadima\Zkusebni\Zkusebni\obj\Debug\netcoreapp3.1\Zkusebni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysak\Documents\03_TEACHING\Programovani\03_ROCNIKOVE_PRACE\Chadima\Zkusebni\Zkusebni\obj\Debug\netcoreapp3.1\Zkusebni.AssemblyInfoInputs.cache
+C:\Users\mysak\Documents\03_TEACHING\Programovani\03_ROCNIKOVE_PRACE\Chadima\Zkusebni\Zkusebni\obj\Debug\netcoreapp3.1\Zkusebni.AssemblyInfo.cs
+C:\Users\mysak\Documents\03_TEACHING\Programovani\03_ROCNIKOVE_PRACE\Chadima\Zkusebni\Zkusebni\obj\Debug\netcoreapp3.1\Zkusebni.csproj.CoreCompileInputs.cache
+C:\Users\mysak\Documents\03_TEACHING\Programovani\03_ROCNIKOVE_PRACE\Chadima\Zkusebni\Zkusebni\obj\Debug\netcoreapp3.1\Zkusebni.dll
+C:\Users\mysak\Documents\03_TEACHING\Programovani\03_ROCNIKOVE_PRACE\Chadima\Zkusebni\Zkusebni\obj\Debug\netcoreapp3.1\Zkusebni.pdb
+C:\Users\mysak\Documents\03_TEACHING\Programovani\03_ROCNIKOVE_PRACE\Chadima\Zkusebni\Zkusebni\obj\Debug\netcoreapp3.1\Zkusebni.genruntimeconfig.cache
